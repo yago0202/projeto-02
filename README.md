@@ -25,3 +25,4 @@ Você pode visualizar o layout do projeto através
 Projeto feito em sala da [Infinity School](https://infinityschool.com.br/).
 
 Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
+[README.md](https://github.com/yago0202/projeto-02/files/15048998/README.md)
