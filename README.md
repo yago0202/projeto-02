@@ -1,4 +1,4 @@
-[README.md](https://github.com/yago0202/projeto-02/files/15049000/README.md)<p>
+
  <img src="./arquivos/preview.png" alt="demonstração do projeto" width="100%" />
 </p>
 
@@ -27,5 +27,4 @@ Projeto feito em sala da [Infinity School](https://infinityschool.com.br/).
 Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
 
 
-
-[Uploading README.md…]()
+![preview](https://github.com/yago0202/projeto-02/assets/150140424/c54559c0-90b1-44dc-bc32-dd842cc830cb)
